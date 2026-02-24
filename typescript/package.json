@@ -2,6 +2,7 @@
   "name": "algorithms-study-ts",
   "version": "1.0.0",
   "description": "TypeScript algorithms study guide",
+  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
