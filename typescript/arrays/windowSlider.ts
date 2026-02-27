@@ -1,3 +1,5 @@
+export {}
+
 const nums = [2, 1, 5, 1, 3, 2];
 const windowSize = 3
 
